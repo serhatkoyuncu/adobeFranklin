@@ -1,4 +1,4 @@
-mountpoints:
-  /: https://onedrive.live.com/?id=A04F8A74B67CB2C1%214428&cid=A04F8A74B67CB2C1
 # mountpoints:
-#   /: https://drive.google.com/drive/u/1/folders/1j3EgvJuWJRa7QHqJ_WH31gdz8yT-qSYH
+#   /: https://onedrive.live.com/?id=A04F8A74B67CB2C1%214428&cid=A04F8A74B67CB2C1
+mountpoints:
+  /: https://drive.google.com/drive/u/1/folders/1j3EgvJuWJRa7QHqJ_WH31gdz8yT-qSYH
